@@ -1,3 +1,12 @@
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+$$
+\min_G \max_D V(D,G) =
+\mathbb{E}_{x\sim p_{data}}[\log D(x)] +
+\mathbb{E}_{z\sim p_z}[\log(1 - D(G(z)))]
+$$
+
+
 # 🎯 GAN Training: Loss Functions & Dynamics
 
 Generative Adversarial Networks (GANs) implement a **two-player minimax game** between two neural networks:
