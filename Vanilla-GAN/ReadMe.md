@@ -125,6 +125,8 @@ The discriminator is completely **confused**, and the generator perfectly models
 
 ## Results
 - Trained : 50 Epocs
+- Each Epoch : 469 batches
+- Each Batch : 128 Images [ generator 1 Step - discriminator 1 Step ] 
 - Dataset used : MNIST
 <img width="636" height="658" alt="image" src="https://github.com/user-attachments/assets/1ba86898-3da7-4cc8-bc68-e426f66eafc4" />
 <img width="636" height="658" alt="image" src="https://github.com/user-attachments/assets/15ff3538-2d2e-4dda-bb46-c1b99308513f" />
