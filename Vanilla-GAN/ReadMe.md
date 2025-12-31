@@ -85,9 +85,10 @@ Instead of minimizing $\log(1 - D(G(z)))$, the generator **maximizes** $\log(D(G
 ### Non-Saturating Generator Loss
 
 $$
-\mathcal{L}_G^{NS} =
+\mathcal{L}_G^{\text{NS}} =
 - \mathbb{E}_{z \sim p_z}[\log D(G(z))]
 $$
+
 
 ### Why This Works
 - Provides **strong gradients** even when the discriminator is confident  
