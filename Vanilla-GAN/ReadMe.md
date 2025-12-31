@@ -122,3 +122,7 @@ The discriminator is completely **confused**, and the generator perfectly models
 
 ## 📚 Reference
 - Goodfellow et al., *Generative Adversarial Nets*, NeurIPS 2014
+
+
+<img width="636" height="658" alt="image" src="https://github.com/user-attachments/assets/1ba86898-3da7-4cc8-bc68-e426f66eafc4" />
+
