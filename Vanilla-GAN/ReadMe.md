@@ -75,6 +75,8 @@ $$
 $$
 
 When $D(G(z)) \approx 0$, learning slows significantly.
+<img width="574" height="455" alt="image" src="https://github.com/user-attachments/assets/9bb4367d-7cc2-4770-a74f-33633e308038" />
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/71ee974a-e75c-4e55-a774-dd6036e80d03" />
 
 ---
 
@@ -89,6 +91,7 @@ $$
 \mathbb{E}_{z \sim p_z}[\log D(G(z))]
 $$
 
+<img width="698" height="547" alt="image" src="https://github.com/user-attachments/assets/c370cfa3-1b1b-4c4c-8eea-f7d1a2240f54" />
 
 
 ### Why This Works
