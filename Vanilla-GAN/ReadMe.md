@@ -74,12 +74,6 @@ $$
 -\frac{\nabla_G D(G(z))}{1 - D(G(z))}
 $$
 
-
-$$
-\mathcal{L}_G^{\text{NS}} =
-- \mathbb{E}_{z \sim p_z}[\log D(G(z))]
-$$ 
-
 When $D(G(z)) \approx 0$, learning slows significantly.
 
 ---
@@ -92,7 +86,7 @@ Instead of minimizing $\log(1 - D(G(z)))$, the generator **maximizes** $\log(D(G
 
 $$
 \mathcal{L}_G^{\text{NS}} =
-- \mathbb{E}_{z \sim p_z}[\log D(G(z))]
+\mathbb{E}_{z \sim p_z}[\log D(G(z))]
 $$
 
 
