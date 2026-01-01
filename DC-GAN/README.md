@@ -102,7 +102,8 @@ DCGAN significantly improves upon vanilla GANs by using convolutional neural net
 
 ## We can some Results After Training For 50 epocs
 
-<img width="242" height="242" alt="sample_epoch_1" src="https://github.com/user-attachments/assets/b29afc44-9668-4606-9541-5625499d0625" />
+# Epoch 1
+<img width="350" height="350" alt="sample_epoch_1" src="https://github.com/user-attachments/assets/b29afc44-9668-4606-9541-5625499d0625" />
 
 <img width="242" height="242" alt="sample_epoch_10" src="https://github.com/user-attachments/assets/0dd98a45-afd5-45ac-9a86-dc67b53e9dd5" />
 
@@ -111,6 +112,8 @@ DCGAN significantly improves upon vanilla GANs by using convolutional neural net
 <img width="242" height="242" alt="sample_epoch_30" src="https://github.com/user-attachments/assets/64bcee18-edd3-41a4-a56f-37bf14fc5bd9" />
 
 <img width="242" height="242" alt="sample_epoch_40" src="https://github.com/user-attachments/assets/eeb955db-1eac-454a-8335-02fb6d82dfd7" />
+
+<img width="242" height="242" alt="sample_epoch_50" src="https://github.com/user-attachments/assets/d490d0be-84d4-4209-b91f-7db8cc8904dc" />
 
 ## Future Improvements
 - Replace BCE loss with **WGAN-GP** for improved stability
