@@ -99,6 +99,10 @@ DCGAN significantly improves upon vanilla GANs by using convolutional neural net
 
 ---
 
+
+## We can some Results After Training For 50 epocs
+<images>
+
 ## Future Improvements
 - Replace BCE loss with **WGAN-GP** for improved stability
 - Add **Spectral Normalization** to the discriminator
