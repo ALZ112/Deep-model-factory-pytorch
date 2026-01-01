@@ -104,14 +104,19 @@ DCGAN significantly improves upon vanilla GANs by using convolutional neural net
 
 ### Epoch 1
 <img width="350" height="350" alt="sample_epoch_1" src="https://github.com/user-attachments/assets/b29afc44-9668-4606-9541-5625499d0625" />
+
 ### Epoch 10
 <img width="350" height="350" alt="sample_epoch_10" src="https://github.com/user-attachments/assets/0dd98a45-afd5-45ac-9a86-dc67b53e9dd5" />
+
 ### Epoch 20
 <img width="350" height="350" alt="sample_epoch_20" src="https://github.com/user-attachments/assets/4a92a70d-902a-494f-ba40-711401aeafb2" />
+
 ### Epoch 30
 <img width="350" height="350" alt="sample_epoch_30" src="https://github.com/user-attachments/assets/64bcee18-edd3-41a4-a56f-37bf14fc5bd9" />
+
 ### Epoch 40
 <img width="350" height="350" alt="sample_epoch_40" src="https://github.com/user-attachments/assets/eeb955db-1eac-454a-8335-02fb6d82dfd7" />
+
 ### Epoch 50
 <img width="350" height="350" alt="sample_epoch_50" src="https://github.com/user-attachments/assets/d490d0be-84d4-4209-b91f-7db8cc8904dc" />
 
