@@ -125,13 +125,12 @@ Observed challenges include:
 - Progressive improvement as training stabilizes
 - Class-wise consistency of generated samples
 
-<img width="940" height="378" alt="Screenshot 2026-01-02 004103" src="https://github.com/user-attachments/assets/27bca191-02a4-4632-b869-c294a17ff8b3" />
-<img width="940" height="314" alt="Screenshot 2026-01-02 004045" src="https://github.com/user-attachments/assets/d361cd81-1ce0-4a3c-b48a-3211c85405e1" />
-<img width="938" height="319" alt="Screenshot 2026-01-02 003854" src="https://github.com/user-attachments/assets/654d5056-8302-4a29-8409-81776c43093d" />
-<img width="943" height="377" alt="Screenshot 2026-01-02 003833" src="https://github.com/user-attachments/assets/1a906d5a-120b-4508-abb3-04ed078f00a0" />
-<img width="937" height="376" alt="Screenshot 2026-01-02 003807" src="https://github.com/user-attachments/assets/d31719f2-2189-4ad0-a915-4ed4653c138a" />
 <img width="937" height="378" alt="Screenshot 2026-01-02 003717" src="https://github.com/user-attachments/assets/8e348a1e-e655-4499-a57b-faaef927b5ad" />
-
+<img width="937" height="376" alt="Screenshot 2026-01-02 003807" src="https://github.com/user-attachments/assets/d31719f2-2189-4ad0-a915-4ed4653c138a" />
+<img width="943" height="377" alt="Screenshot 2026-01-02 003833" src="https://github.com/user-attachments/assets/1a906d5a-120b-4508-abb3-04ed078f00a0" />
+<img width="938" height="319" alt="Screenshot 2026-01-02 003854" src="https://github.com/user-attachments/assets/654d5056-8302-4a29-8409-81776c43093d" />
+<img width="940" height="314" alt="Screenshot 2026-01-02 004045" src="https://github.com/user-attachments/assets/d361cd81-1ce0-4a3c-b48a-3211c85405e1" />
+<img width="940" height="378" alt="Screenshot 2026-01-02 004103" src="https://github.com/user-attachments/assets/27bca191-02a4-4632-b869-c294a17ff8b3" />
 
 ---
 
