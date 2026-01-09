@@ -213,6 +213,8 @@ This term regularizes the latent distribution toward the prior.
 
 ---
 
+
+
 ## 🔗 Further Reading
 
 - *Auto-Encoding Variational Bayes* — Kingma & Welling  
