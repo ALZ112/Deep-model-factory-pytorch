@@ -20,7 +20,7 @@
 ### ❌ Result: Posterior Collapse
 
 - Encoder outputs:  
-  $ z \approx \mathcal{N}(0, I) \;\; \text{for all } x $
+  $z \approx \mathcal{N}(0, I) \;\; \forall x$
 - Decoder **ignores** latent variable `z`
 - Encoder and decoder never coordinate
 - Factory produces **generic outputs only**
