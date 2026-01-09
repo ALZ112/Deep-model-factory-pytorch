@@ -59,7 +59,7 @@ $$
 
 ### Where:
 
-- $\( q_\phi(z|x) \) — encoder (approximate posterior)$
+- $\( q_\phi(z|x) \) — encoder (approximate  posterior)$
 - $\( p_\theta(x|z) \) — decoder (likelihood)$
 - $\( p(z) = \mathcal{N}(0, I) \) — prior$
 - **β** controls the **disentanglement–reconstruction trade-off**
