@@ -216,11 +216,6 @@ This term regularizes the latent distribution toward the prior.
 
 # 📊 β-VAE Training Results (Epoch 30)
 
-### 🔹 β = 4.0
-- Epoch 30: 100%|██████████| 469/469 [00:07<00:00, 62.16it/s, Loss=144, BCE=110, KLD=8.51]
-- Train Loss: 142.4684, Test Loss: 142.8658
-- Train BCE: 108.8103, KLD: 8.4145
-- Test BCE: 109.8983, KLD: 8.2419
 
 ### 🔹 β = 0.1
 - Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.66it/s, Loss=66, BCE=60.6, KLD=53.6]
@@ -228,13 +223,21 @@ This term regularizes the latent distribution toward the prior.
 - Train BCE: 62.8916, KLD: 53.1632
 - Test BCE: 64.4485, KLD: 52.7590
 
+### 🔹 β = 4.0
+- Epoch 30: 100%|██████████| 469/469 [00:07<00:00, 62.16it/s, Loss=144, BCE=110, KLD=8.51]
+- Train Loss: 142.4684, Test Loss: 142.8658
+- Train BCE: 108.8103, KLD: 8.4145
+- Test BCE: 109.8983, KLD: 8.2419
+
 ### 🔹 β = 2.0
 - Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.03it/s, Loss=123, BCE=96, KLD=13.4]
 - Train Loss: 118.0636, Test Loss: 119.0178
 - Train BCE: 91.5529, KLD: 13.2553
 - Test BCE: 92.7549, KLD: 13.1315
 
-
+<img width="1323" height="325" alt="Screenshot 2026-01-10 030228" src="https://github.com/user-attachments/assets/bda0885a-a5db-43b2-93d4-14d359098433" />
+<img width="1303" height="339" alt="Screenshot 2026-01-10 035623" src="https://github.com/user-attachments/assets/fa000c0a-cb9a-436a-ab90-2be38ca986d8" />
+<img width="1282" height="337" alt="Screenshot 2026-01-10 032038" src="https://github.com/user-attachments/assets/9f1dc6e1-e951-40f9-a645-bba54440706c" />
 
 ---
 
