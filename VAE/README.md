@@ -81,25 +81,9 @@ $$
 For diagonal Gaussian latent distributions:
 
 $$
-D_{KL}
-\left(
-\mathcal{N}(\mu, \sigma^2)
-\;\|\;
-\mathcal{N}(0, I)
-\right)
-=
--\frac{1}{2}
-\sum
-\left(
-1
-+
-\log \sigma^2
--
-\mu^2
--
-\sigma^2
-\right)
+D_{KL}(\mathcal{N}(\mu, \sigma^2) \| \mathcal{N}(0, I)) = -\frac{1}{2} \sum (1 + \log \sigma^2 - \mu^2 - \sigma^2)
 $$
+
 
 This term regularizes the latent distribution toward the prior.
 
@@ -108,7 +92,7 @@ This term regularizes the latent distribution toward the prior.
 ## ⚙️ Model Components
 
 ### Encoder
-- Maps input \( x \rightarrow (\mu, \log \sigma^2) \)
+- $Maps input \( x \rightarrow (\mu, \log \sigma^2) \)$
 - Defines the approximate posterior
 
 ### Latent Space
@@ -116,7 +100,7 @@ This term regularizes the latent distribution toward the prior.
 - Enables gradient flow through stochastic nodes
 
 ### Decoder
-- Maps latent variables \( z \rightarrow \hat{x} \)
+- $Maps latent variables \( z \rightarrow \hat{x} \)$
 - Defines the likelihood model
 
 ---
