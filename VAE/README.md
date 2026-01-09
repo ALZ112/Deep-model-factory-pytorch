@@ -217,10 +217,10 @@ This term regularizes the latent distribution toward the prior.
 # 📊 β-VAE Training Results (Epoch 30)
 
 ### 🔹 β = 4.0
-Epoch 30: 100%|██████████| 469/469 [00:07<00:00, 62.16it/s, Loss=144, BCE=110, KLD=8.51]
-Train Loss: 142.4684, Test Loss: 142.8658
-Train BCE: 108.8103, KLD: 8.4145
-Test BCE: 109.8983, KLD: 8.2419
+- Epoch 30: 100%|██████████| 469/469 [00:07<00:00, 62.16it/s, Loss=144, BCE=110, KLD=8.51]
+- Train Loss: 142.4684, Test Loss: 142.8658
+- Train BCE: 108.8103, KLD: 8.4145
+- Test BCE: 109.8983, KLD: 8.2419
 
 ### 🔹 β = 0.1
 Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.66it/s, Loss=66, BCE=60.6, KLD=53.6]
