@@ -59,9 +59,9 @@ $$
 
 ### Where:
 
-- \( q_\phi(z|x) \) — encoder (approximate posterior)
-- \( p_\theta(x|z) \) — decoder (likelihood)
-- \( p(z) = \mathcal{N}(0, I) \) — prior
+- $\( q_\phi(z|x) \) — encoder (approximate posterior)$
+- $\( p_\theta(x|z) \) — decoder (likelihood)$
+- $\( p(z) = \mathcal{N}(0, I) \) — prior$
 - **β** controls the **disentanglement–reconstruction trade-off**
 
 ---
@@ -80,7 +80,7 @@ $$
 
 For diagonal Gaussian latent distributions:
 
-\[
+$$
 D_{KL}
 \left(
 \mathcal{N}(\mu, \sigma^2)
@@ -91,9 +91,15 @@ D_{KL}
 -\frac{1}{2}
 \sum
 \left(
-1 + \log \sigma^2 - \mu^2 - \sigma^2
+1
++
+\log \sigma^2
+-
+\mu^2
+-
+\sigma^2
 \right)
-\]
+$$
 
 This term regularizes the latent distribution toward the prior.
 
