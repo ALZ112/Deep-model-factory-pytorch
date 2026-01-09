@@ -11,3 +11,9 @@ Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.66it/s, 
 Epoch 30: Train Loss: 68.2079, Test Loss: 69.7244
   Train BCE: 62.8916, KLD: 53.1632
   Test BCE: 64.4485, KLD: 52.7590
+
+beta = 2
+Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.03it/s, Loss=123, BCE=96, KLD=13.4]  
+Epoch 30: Train Loss: 118.0636, Test Loss: 119.0178
+  Train BCE: 91.5529, KLD: 13.2553
+  Test BCE: 92.7549, KLD: 13.1315
