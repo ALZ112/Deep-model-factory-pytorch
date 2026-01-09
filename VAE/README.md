@@ -44,9 +44,17 @@ The VAE maximizes the **Evidence Lower Bound (ELBO)**:
 \[
 \log p(x)
 \ge
-\mathbb{E}_{q_\phi(z|x)} \left[ \log p_\theta(x|z) \right]
+\mathbb{E}_{q_\phi(z|x)}
+\left[
+\log p_\theta(x|z)
+\right]
 -
-D_{KL}\left(q_\phi(z|x)\,\|\,p(z)\right)
+D_{KL}
+\left(
+q_\phi(z|x)
+\;\|\;
+p(z)
+\right)
 \]
 
 ---
@@ -58,18 +66,28 @@ The β-VAE modifies the ELBO as:
 \[
 \mathcal{L}(\theta, \phi)
 =
-\mathbb{E}_{q_\phi(z|x)} \left[ \log p_\theta(x|z) \right]
+\mathbb{E}_{q_\phi(z|x)}
+\left[
+\log p_\theta(x|z)
+\right]
 -
 \beta \cdot
-D_{KL}\left(q_\phi(z|x)\,\|\,p(z)\right)
+D_{KL}
+\left(
+q_\phi(z|x)
+\;\|\;
+p(z)
+\right)
 \]
 
-Where:
+---
+
+### Where:
 
 - \( q_\phi(z|x) \) — encoder (approximate posterior)
 - \( p_\theta(x|z) \) — decoder (likelihood)
 - \( p(z) = \mathcal{N}(0, I) \) — prior
-- **β controls disentanglement vs reconstruction**
+- **β** controls the **disentanglement–reconstruction trade-off**
 
 ---
 
