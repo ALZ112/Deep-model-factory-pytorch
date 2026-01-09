@@ -52,6 +52,7 @@ $$
 The β-VAE modifies the ELBO as:
 
 $$
+
 \[
 \mathcal{L}(\theta, \phi)
 =
@@ -68,6 +69,7 @@ q_\phi(z|x)
 p(z)
 \right)
 \]
+
 $$
 ---
 
