@@ -52,24 +52,7 @@ $$
 The β-VAE modifies the ELBO as:
 
 $$
-
-\[
-\mathcal{L}(\theta, \phi)
-=
-\mathbb{E}_{q_\phi(z|x)}
-\left[
-\log p_\theta(x|z)
-\right]
--
-\beta \cdot
-D_{KL}
-\left(
-q_\phi(z|x)
-\;\|\;
-p(z)
-\right)
-\]
-
+L(θ, φ) = 𝔼[log p_θ(x|z)] - β ⋅ D_KL(q_φ(z|x) || p(z))
 $$
 ---
 
