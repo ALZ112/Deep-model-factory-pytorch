@@ -249,15 +249,16 @@ This term regularizes the latent distribution toward the prior.
 
 ---
 
-<img width="799" height="719" alt="Screenshot 2026-01-10 032109" src="https://github.com/user-attachments/assets/29f5eee3-3250-43fa-af65-7630181d2c5c" />
-<img width="785" height="706" alt="Screenshot 2026-01-10 033657" src="https://github.com/user-attachments/assets/10e0f328-d7d3-4c4c-84d5-b621a8087d86" />
 <img width="791" height="701" alt="Screenshot 2026-01-10 035641" src="https://github.com/user-attachments/assets/7edfb4be-b729-4582-8ca6-d0c923e3bf3c" />
+<img width="785" height="706" alt="Screenshot 2026-01-10 033657" src="https://github.com/user-attachments/assets/10e0f328-d7d3-4c4c-84d5-b621a8087d86" />
+<img width="799" height="719" alt="Screenshot 2026-01-10 032109" src="https://github.com/user-attachments/assets/29f5eee3-3250-43fa-af65-7630181d2c5c" />
 
 ---
 
+<img width="1197" height="609" alt="Screenshot 2026-01-10 032049" src="https://github.com/user-attachments/assets/fb9ae20f-9324-418f-b930-03622f19d26c" />
 <img width="1189" height="596" alt="Screenshot 2026-01-10 035632" src="https://github.com/user-attachments/assets/6791bf72-55ad-491c-8437-60de8288b8a9" />
 <img width="1184" height="599" alt="Screenshot 2026-01-10 033648" src="https://github.com/user-attachments/assets/e52f6adf-486f-4b3a-ba76-c961d7c0d223" />
-<img width="1197" height="609" alt="Screenshot 2026-01-10 032049" src="https://github.com/user-attachments/assets/fb9ae20f-9324-418f-b930-03622f19d26c" />
+
 
 ---
 
