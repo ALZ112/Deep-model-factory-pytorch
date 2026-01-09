@@ -223,16 +223,16 @@ This term regularizes the latent distribution toward the prior.
 - Test BCE: 109.8983, KLD: 8.2419
 
 ### 🔹 β = 0.1
-Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.66it/s, Loss=66, BCE=60.6, KLD=53.6]
-Train Loss: 68.2079, Test Loss: 69.7244
-Train BCE: 62.8916, KLD: 53.1632
-Test BCE: 64.4485, KLD: 52.7590
+-Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.66it/s, Loss=66, BCE=60.6, KLD=53.6]
+-Train Loss: 68.2079, Test Loss: 69.7244
+-Train BCE: 62.8916, KLD: 53.1632
+-Test BCE: 64.4485, KLD: 52.7590
 
 ### 🔹 β = 2.0
-Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.03it/s, Loss=123, BCE=96, KLD=13.4]
-Train Loss: 118.0636, Test Loss: 119.0178
-Train BCE: 91.5529, KLD: 13.2553
-Test BCE: 92.7549, KLD: 13.1315
+-Epoch 30: 100%|██████████| 469/469 [00:06<00:00, 68.03it/s, Loss=123, BCE=96, KLD=13.4]
+-Train Loss: 118.0636, Test Loss: 119.0178
+-Train BCE: 91.5529, KLD: 13.2553
+-Test BCE: 92.7549, KLD: 13.1315
 
 
 
