@@ -41,10 +41,9 @@ This explicitly trades off:
 
 The VAE maximizes the **Evidence Lower Bound (ELBO)**:
 
-\[
 \log p(x)
 \ge
-\mathbb{E}_{q_\phi(z|x)}
+\mathbb{E}_{z \sim q_\phi(z|x)}
 \left[
 \log p_\theta(x|z)
 \right]
@@ -55,7 +54,7 @@ q_\phi(z|x)
 \;\|\;
 p(z)
 \right)
-\]
+
 
 ---
 
