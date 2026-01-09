@@ -249,9 +249,9 @@ This term regularizes the latent distribution toward the prior.
 
 ---
 
+<img width="799" height="719" alt="Screenshot 2026-01-10 032109" src="https://github.com/user-attachments/assets/29f5eee3-3250-43fa-af65-7630181d2c5c" />
 <img width="791" height="701" alt="Screenshot 2026-01-10 035641" src="https://github.com/user-attachments/assets/7edfb4be-b729-4582-8ca6-d0c923e3bf3c" />
 <img width="785" height="706" alt="Screenshot 2026-01-10 033657" src="https://github.com/user-attachments/assets/10e0f328-d7d3-4c4c-84d5-b621a8087d86" />
-<img width="799" height="719" alt="Screenshot 2026-01-10 032109" src="https://github.com/user-attachments/assets/29f5eee3-3250-43fa-af65-7630181d2c5c" />
 
 ---
 
@@ -262,15 +262,15 @@ This term regularizes the latent distribution toward the prior.
 
 ---
 
+<img width="1274" height="635" alt="Screenshot 2026-01-10 032604" src="https://github.com/user-attachments/assets/0451d457-0560-4291-93c1-509c75245fd9" />
 <img width="1276" height="647" alt="Screenshot 2026-01-10 035700" src="https://github.com/user-attachments/assets/fceacba0-fb9a-4587-b64e-eb6968bdc517" />
 <img width="1283" height="641" alt="Screenshot 2026-01-10 033718" src="https://github.com/user-attachments/assets/535eadf0-2a8b-4ed0-a414-26bea03357f3" />
-<img width="1274" height="635" alt="Screenshot 2026-01-10 032604" src="https://github.com/user-attachments/assets/0451d457-0560-4291-93c1-509c75245fd9" />
 
 ---
 
-<img width="1291" height="221" alt="Screenshot 2026-01-10 033706" src="https://github.com/user-attachments/assets/19de934f-1eb1-45ca-ac84-7c16b14964de" />
-<img width="1293" height="224" alt="Screenshot 2026-01-10 035651" src="https://github.com/user-attachments/assets/99b6763c-3df9-4adc-8e2e-02aa8a591dc1" />
 <img width="1295" height="226" alt="Screenshot 2026-01-10 032522" src="https://github.com/user-attachments/assets/5a8dd082-ca2b-4f0e-8bc1-1da5ef37523c" />
+<img width="1293" height="224" alt="Screenshot 2026-01-10 035651" src="https://github.com/user-attachments/assets/99b6763c-3df9-4adc-8e2e-02aa8a591dc1" />
+<img width="1291" height="221" alt="Screenshot 2026-01-10 033706" src="https://github.com/user-attachments/assets/19de934f-1eb1-45ca-ac84-7c16b14964de" />
 
 ---
 
