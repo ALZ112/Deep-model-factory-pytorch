@@ -235,9 +235,14 @@ This term regularizes the latent distribution toward the prior.
 - Train BCE: 91.5529, KLD: 13.2553
 - Test BCE: 92.7549, KLD: 13.1315
 
-<img width="1323" height="325" alt="Screenshot 2026-01-10 030228" src="https://github.com/user-attachments/assets/bda0885a-a5db-43b2-93d4-14d359098433" />
-<img width="1303" height="339" alt="Screenshot 2026-01-10 035623" src="https://github.com/user-attachments/assets/fa000c0a-cb9a-436a-ab90-2be38ca986d8" />
 <img width="1282" height="337" alt="Screenshot 2026-01-10 032038" src="https://github.com/user-attachments/assets/9f1dc6e1-e951-40f9-a645-bba54440706c" />
+<img width="1303" height="339" alt="Screenshot 2026-01-10 035623" src="https://github.com/user-attachments/assets/fa000c0a-cb9a-436a-ab90-2be38ca986d8" />
+<img width="1323" height="325" alt="Screenshot 2026-01-10 030228" src="https://github.com/user-attachments/assets/bda0885a-a5db-43b2-93d4-14d359098433" />
+
+
+<img width="1277" height="371" alt="Screenshot 2026-01-10 033605" src="https://github.com/user-attachments/assets/c861053e-5436-4212-a588-af7c6128df85" />
+<img width="1272" height="362" alt="Screenshot 2026-01-10 035616" src="https://github.com/user-attachments/assets/c95d6b1a-71a1-4a62-ae05-e9e592b1ba18" />
+<img width="1278" height="378" alt="Screenshot 2026-01-10 032030" src="https://github.com/user-attachments/assets/dd481711-8ef2-4815-b5d7-22817b46f263" />
 
 ---
 
